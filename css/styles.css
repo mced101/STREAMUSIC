@@ -1,0 +1,234 @@
+body   {
+		background-color: #808080;
+}		
+	/*	
+#container {
+	
+	
+	/* Style to create a fluid image 
+		max-width: 100%
+	}
+		*/		
+		
+/*
+header {
+		margin-top: 0.2em;
+		background-color: #FFFFFF;
+		border-radius: 0.5em;
+		text-align: center;
+} 
+*/
+	
+	/* Styles for the nav specifies text properties */
+	/*
+nav  ul  { 
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: 1.25em;
+		font-weight: bold;
+		text-align: center; 
+		padding: 0;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+		border-radius: 20px;
+		border-top: 5px solid #FFFFFF;
+		border-bottom: 5px solid #FFFFFF;
+}	
+
+nav ul   {	
+	padding: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+*/
+
+nav li   {
+	background-color: #92a8d1;
+	border-radius: 2em;
+	list-style-type: none;
+	margin: 0.3em;
+	padding: 0.4em;
+}
+
+nav li   {
+	color: #FFFFFF
+}	
+
+
+	.mobile {
+		display: inline;
+}	
+
+
+	.desktop {
+		display: none;
+}		
+
+
+	.tablet {
+		display: none;
+}
+
+/*
+main   {
+		display: block;
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 1em;
+		margin-top: 0.5em;
+		padding: 1em;
+		border-radius: 1em;
+		background-color: #FFFFFF;
+		border-top: solid 0.2em #404040;
+		border-bottom: solid 0.2em #404040;
+}
+	*/
+footer {
+		font-size: .70em;
+		text-align: center;
+		margin-top: 2em;
+}		
+	
+	.equip {
+		display: none;
+}
+
+
+    /* Style rule for input, select, and textarea form elements */ 
+  input, select, textarea {
+	 display: block;
+	 margin-bottom: 1em;
+	}
+ 
+ 
+	/* Style rule for label element */	
+  label {
+	  display: block;
+    }
+	
+	
+    /* Style rule for unordered list within a form */ 
+   form ul {
+		list-style-type: none;
+   }
+   
+   
+    /* Style rule for chkbx class */
+   .chkbx {
+		display: inline-block;
+   }
+	
+	
+	/* Style rule label element */ 
+	 label {
+		 float: left;
+		 padding-right: 0.5em;
+		 text-align: right;
+		 width: 10em;
+	}
+	
+	
+	/* Style rule for btn class */	
+	 .btn {
+		  margin-left: 12em;
+	}
+	
+
+	/* Style rule for form element */
+	 form	{
+	 padding: 1em;
+	} 
+	
+	
+	/* Style rule for paragraph with form element */
+	 form p {
+	 color: #000000;
+	} 
+	
+	.navibar{
+		height : 40px;
+		text-align : center;
+		font-size: 60%;
+	}
+	
+	.mainmen{
+		font-size : 20px;
+		text-align : center;
+		
+	}
+	
+	.footer{
+		font-size: 20px;
+		text-align: center;
+		margin-top: 2em; 
+	}
+	
+	.pic{
+		text-align : center;
+	}
+	
+	.body{
+		font-size: 20px;
+	}
+	
+	.contentt{
+		text-align : left;
+		font-size : 15px;
+	
+	}
+	
+	/*************************************************************************************************/
+	
+	
+    /* Style rule for input, select, and textarea form elements */ 
+  input, select, textarea {
+	 display: block;
+	 margin-bottom: 1em;
+	}
+ 
+ 
+	/* Style rule for label element */	
+  label {
+	  display: block;
+    }
+	
+	
+    /* Style rule for unordered list within a form */ 
+   form ul {
+		list-style-type: none;
+   }
+   
+   
+    /* Style rule for chkbx class */
+   .chkbx {
+		display: inline-block;
+   }
+	
+	
+	/* Style rule label element */ 
+	 label {
+		 float: left;
+		 padding-right: 0.5em;
+		 text-align: right;
+		 width: 10em;
+	}
+	
+	
+	/* Style rule for btn class */	
+	 .btn {
+		  margin-left: 12em;
+	}
+	
+
+	/* Style rule for form element */
+	 form	{
+	 padding: 1em;
+	} 
+	
+	
+	/* Style rule for paragraph with form element */
+	 form p {
+	 color: #000000;
+	} 
+	
+
+	
+	/************************************************************************************************/
